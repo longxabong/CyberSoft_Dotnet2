@@ -1,0 +1,17 @@
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\bin\Debug\net8.0\session12_oop_donggoi.exe
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\bin\Debug\net8.0\session12_oop_donggoi.deps.json
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\bin\Debug\net8.0\session12_oop_donggoi.runtimeconfig.json
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\bin\Debug\net8.0\session12_oop_donggoi.dll
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\bin\Debug\net8.0\session12_oop_donggoi.pdb
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\obj\Debug\net8.0\session12_oop_donggoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\obj\Debug\net8.0\session12_oop_donggoi.AssemblyInfoInputs.cache
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\obj\Debug\net8.0\session12_oop_donggoi.AssemblyInfo.cs
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\obj\Debug\net8.0\session12_oop_donggoi.csproj.CoreCompileInputs.cache
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\obj\Debug\net8.0\session12_oop_donggoi.dll
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\obj\Debug\net8.0\refint\session12_oop_donggoi.dll
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\obj\Debug\net8.0\session12_oop_donggoi.pdb
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\obj\Debug\net8.0\session12_oop_donggoi.genruntimeconfig.cache
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\obj\Debug\net8.0\ref\session12_oop_donggoi.dll
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\obj\Debug\net8.0\session12_oop_donggoi.csproj.AssemblyReference.cache
+D:\Cyber_C#\Cybersoft_Dotnet2\session12_oop_donggoi\obj\Debug\net8.0\session1.63F8F334.Up2Date

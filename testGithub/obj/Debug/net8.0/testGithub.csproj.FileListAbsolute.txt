@@ -1,0 +1,14 @@
+D:\CyberSoft_C#\CyberSoft_Dotnet2\testGithub\bin\Debug\net8.0\testGithub.exe
+D:\CyberSoft_C#\CyberSoft_Dotnet2\testGithub\bin\Debug\net8.0\testGithub.deps.json
+D:\CyberSoft_C#\CyberSoft_Dotnet2\testGithub\bin\Debug\net8.0\testGithub.runtimeconfig.json
+D:\CyberSoft_C#\CyberSoft_Dotnet2\testGithub\bin\Debug\net8.0\testGithub.dll
+D:\CyberSoft_C#\CyberSoft_Dotnet2\testGithub\bin\Debug\net8.0\testGithub.pdb
+D:\CyberSoft_C#\CyberSoft_Dotnet2\testGithub\obj\Debug\net8.0\testGithub.GeneratedMSBuildEditorConfig.editorconfig
+D:\CyberSoft_C#\CyberSoft_Dotnet2\testGithub\obj\Debug\net8.0\testGithub.AssemblyInfoInputs.cache
+D:\CyberSoft_C#\CyberSoft_Dotnet2\testGithub\obj\Debug\net8.0\testGithub.AssemblyInfo.cs
+D:\CyberSoft_C#\CyberSoft_Dotnet2\testGithub\obj\Debug\net8.0\testGithub.csproj.CoreCompileInputs.cache
+D:\CyberSoft_C#\CyberSoft_Dotnet2\testGithub\obj\Debug\net8.0\testGithub.dll
+D:\CyberSoft_C#\CyberSoft_Dotnet2\testGithub\obj\Debug\net8.0\refint\testGithub.dll
+D:\CyberSoft_C#\CyberSoft_Dotnet2\testGithub\obj\Debug\net8.0\testGithub.pdb
+D:\CyberSoft_C#\CyberSoft_Dotnet2\testGithub\obj\Debug\net8.0\testGithub.genruntimeconfig.cache
+D:\CyberSoft_C#\CyberSoft_Dotnet2\testGithub\obj\Debug\net8.0\ref\testGithub.dll

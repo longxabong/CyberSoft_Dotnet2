@@ -1,0 +1,14 @@
+D:\Cyber_C#\Cybersoft_Dotnet2\session6\bin\Debug\net8.0\session6.exe
+D:\Cyber_C#\Cybersoft_Dotnet2\session6\bin\Debug\net8.0\session6.deps.json
+D:\Cyber_C#\Cybersoft_Dotnet2\session6\bin\Debug\net8.0\session6.runtimeconfig.json
+D:\Cyber_C#\Cybersoft_Dotnet2\session6\bin\Debug\net8.0\session6.dll
+D:\Cyber_C#\Cybersoft_Dotnet2\session6\bin\Debug\net8.0\session6.pdb
+D:\Cyber_C#\Cybersoft_Dotnet2\session6\obj\Debug\net8.0\session6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cyber_C#\Cybersoft_Dotnet2\session6\obj\Debug\net8.0\session6.AssemblyInfoInputs.cache
+D:\Cyber_C#\Cybersoft_Dotnet2\session6\obj\Debug\net8.0\session6.AssemblyInfo.cs
+D:\Cyber_C#\Cybersoft_Dotnet2\session6\obj\Debug\net8.0\session6.csproj.CoreCompileInputs.cache
+D:\Cyber_C#\Cybersoft_Dotnet2\session6\obj\Debug\net8.0\session6.dll
+D:\Cyber_C#\Cybersoft_Dotnet2\session6\obj\Debug\net8.0\refint\session6.dll
+D:\Cyber_C#\Cybersoft_Dotnet2\session6\obj\Debug\net8.0\session6.pdb
+D:\Cyber_C#\Cybersoft_Dotnet2\session6\obj\Debug\net8.0\session6.genruntimeconfig.cache
+D:\Cyber_C#\Cybersoft_Dotnet2\session6\obj\Debug\net8.0\ref\session6.dll

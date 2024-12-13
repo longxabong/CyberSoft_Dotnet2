@@ -1,0 +1,14 @@
+D:\Cyber_C#\Cybersoft_Dotnet2\session14_oop_truutuong\bin\Debug\net8.0\session14_oop_truutuong.exe
+D:\Cyber_C#\Cybersoft_Dotnet2\session14_oop_truutuong\bin\Debug\net8.0\session14_oop_truutuong.deps.json
+D:\Cyber_C#\Cybersoft_Dotnet2\session14_oop_truutuong\bin\Debug\net8.0\session14_oop_truutuong.runtimeconfig.json
+D:\Cyber_C#\Cybersoft_Dotnet2\session14_oop_truutuong\bin\Debug\net8.0\session14_oop_truutuong.dll
+D:\Cyber_C#\Cybersoft_Dotnet2\session14_oop_truutuong\bin\Debug\net8.0\session14_oop_truutuong.pdb
+D:\Cyber_C#\Cybersoft_Dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cyber_C#\Cybersoft_Dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.AssemblyInfoInputs.cache
+D:\Cyber_C#\Cybersoft_Dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.AssemblyInfo.cs
+D:\Cyber_C#\Cybersoft_Dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.csproj.CoreCompileInputs.cache
+D:\Cyber_C#\Cybersoft_Dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.dll
+D:\Cyber_C#\Cybersoft_Dotnet2\session14_oop_truutuong\obj\Debug\net8.0\refint\session14_oop_truutuong.dll
+D:\Cyber_C#\Cybersoft_Dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.pdb
+D:\Cyber_C#\Cybersoft_Dotnet2\session14_oop_truutuong\obj\Debug\net8.0\session14_oop_truutuong.genruntimeconfig.cache
+D:\Cyber_C#\Cybersoft_Dotnet2\session14_oop_truutuong\obj\Debug\net8.0\ref\session14_oop_truutuong.dll
